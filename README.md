@@ -24,8 +24,11 @@ Equipe escolhe (Brainstorming).
 
 2 - Preparação dos dados
 Reunir os dados usando as ferramentas adequadas;
+
 Limpar os dados (descarte);
-Explorar os dados, usando o conhecimento do negócio
+
+Explorar os dados, usando o conhecimento do negócio;
+
 Refinar os dados, escolhendo as variáveis.
 
 3 - Modelagem
