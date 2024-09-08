@@ -43,9 +43,13 @@ Refinar o modelo.
 
 4 - Acompanhamento
 Apresentar o modelo;
-Item de listaImplementar o modelo;
+
+Implementar o modelo;
+
 verificar se coloca no servidor;
+
 verificar se é modelo descritivo ou preditivo;
+
 Arquivar os ativos(backup 3 2 1).
 
 Skill's necessárias para o profissional de ciência de dados
