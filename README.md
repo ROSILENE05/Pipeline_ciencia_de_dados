@@ -27,6 +27,7 @@ Reunir os dados usando as ferramentas adequadas;
 Limpar os dados (descarte);
 Explorar os dados, usando o conhecimento do negócio
 Refinar os dados, escolhendo as variáveis.
+
 3 - Modelagem
 Criar modelo (schema ou snowflake);
 
@@ -35,7 +36,7 @@ Validar o modelo;
 Avaliar o modelo;
 
 Refinar o modelo.
-Clique duas vezes (ou prima Enter) para editar.
+
 
 4 - Acompanhamento
 Apresentar o modelo;
